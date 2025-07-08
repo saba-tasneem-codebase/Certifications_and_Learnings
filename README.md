@@ -1,4 +1,4 @@
-# 🚀 Hey, I'm S!
+# 🚀 Hey, I'm Saba!
 
 Welcome to my little corner of GitHub where curiosity meets code, dashboards, and data magic.  
 I’m someone who enjoys turning raw data into meaningful insights, automating the boring stuff with scripts, and occasionally having deep conversations with AI tools. 📊💡🤖
@@ -11,16 +11,20 @@ This repo is where I document the journey — certifications, projects, and lear
 
 Here are some of the certifications I’ve earned from globally recognized institutions:
 
-- 📋 **[PMI](https://www.pmi.org/)** – *Project Management Institute*  
-  ![PMI Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/PMI_Logo.svg/200px-PMI_Logo.svg.png)
-
-- 🧠 **[Microsoft](https://learn.microsoft.com/en-us/training/)** – *Career Essentials in Generative AI*  
-  ![Microsoft Logo](https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg)
-
-- 📘 **[NASBA](https://www.nasba.org/)** – *National Association of State Boards of Accountancy*  
-  ![NASBA Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NASBA_logo.svg/200px-NASBA_logo.svg.png)
-
----
+-<table>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/PMI_Logo.svg" width="100"/></td>
+    <td><strong>PMI</strong> — Project Management Institute</td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="100"/></td>
+    <td><strong>Microsoft</strong> — Career Essentials in Generative AI</td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/en/5/5f/NASBA_logo.png" width="100"/></td>
+    <td><strong>NASBA</strong> — National Association of State Boards of Accountancy</td>
+  </tr>
+</table>
 
 ## 🛠️ Skills I'm Exploring
 
