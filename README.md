@@ -12,7 +12,7 @@ This repo is where I document the journey — certifications, projects, and lear
 Here are some of the certifications I’ve earned from globally recognized institutions:
 
 - **PMI** – Project Management Institute  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" width="20"/> **Microsoft**
+- **Microsoft**
 - **NASBA** – National Association of State Boards of Accountancy
 
 
