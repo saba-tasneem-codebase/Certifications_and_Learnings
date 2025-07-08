@@ -11,9 +11,9 @@ This repo is where I document the journey — certifications, projects, and lear
 
 Here are some of the certifications I’ve earned from globally recognized institutions:
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/PMI_Logo.svg" alt="PMI" width="20"/> **PMI** – Project Management Institute  
+- **PMI** – Project Management Institute  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" width="20"/> **Microsoft**
-- <img src="https://upload.wikimedia.org/wikipedia/en/5/5f/NASBA_logo.png" alt="NASBA" width="20"/> **NASBA** – National Association of State Boards of Accountancy
+- **NASBA** – National Association of State Boards of Accountancy
 
 
 ## 🛠️ Skills I'm Exploring
