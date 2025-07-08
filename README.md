@@ -10,9 +10,10 @@ This repo is where I document the journey — certifications, projects, and lear
 ## 🏆 Industry-Recognized Certifications
 
 Here are some of the certifications I’ve earned from globally recognized institutions:
-![PMI](https://img.shields.io/badge/Certified_by-PMI-blueviolet?logo=projectmanagement&logoColor=white)  
-![Microsoft](https://img.shields.io/badge/Certified_by-Microsoft-0078D4?logo=microsoft&logoColor=white)  
-![NASBA](https://img.shields.io/badge/Certified_by-NASBA-0A3161?logo=read-the-docs&logoColor=white)
+
+![PMI](https://img.shields.io/badge/Certified_by-PMI-blueviolet?style=for-the-badge&logo=projectmanagement&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Certified_by-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![NASBA](https://img.shields.io/badge/Certified_by-NASBA-0A3161?style=for-the-badge&logo=readthedocs&logoColor=white)
 
 
 ## 🛠️ Skills I'm Exploring
